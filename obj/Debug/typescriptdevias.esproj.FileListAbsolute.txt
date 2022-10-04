@@ -1,0 +1,2 @@
+C:\Users\kylek\source\repos\TypescriptDevias\TypescriptDevias\obj\Debug\typescriptdevias.esproj.SuggestedBindingRedirects.cache
+C:\Users\kylek\source\repos\TypescriptDevias\TypescriptDevias\obj\Debug\typescriptdevias.esproj.CoreCompileInputs.cache
