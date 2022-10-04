@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8b4f035f-52cb-40a6-9b7e-46151da18129/AppServices/subscriptions/8b4f035f-52cb-40a6-9b7e-46151da18129/resourceGroups/deviasreact/providers/Microsoft.Web/sites/deviasreact",
+    "appService.deploySubpath": "."
+}
